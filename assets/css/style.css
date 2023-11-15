@@ -391,6 +391,13 @@ body {
   color: var(--text-white);
 }
 
+.navbar a{
+  color: white;
+}
+.navbar a:hover{
+  color: #9841ff;
+}
+
 .navbar-item { border-block-start: 1px solid var(--border-space-cadet); }
 
 .navbar-item:last-child { border-block-end: 1px solid var(--border-space-cadet); }
